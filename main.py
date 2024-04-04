@@ -1,3 +1,3 @@
-print("Hello world")
-a = input()
-print(a)
+def plus(a, b):
+    return a + b
+
